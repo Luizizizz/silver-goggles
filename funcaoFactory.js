@@ -8,6 +8,3 @@ function criarProduto(nome, preco) {
 console.log(criarProduto("Notebook",2199.49))
 console.log(criarProduto("Celular",519.99))
 console.log(criarProduto("Ipad",1400.00))
-console.log("teste1")
-console.log("teste2")
-console.log("teste3")
