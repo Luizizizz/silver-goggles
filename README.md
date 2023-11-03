@@ -1,5 +1,4 @@
-# Aula de web completo cod3r
-
-## Aula de Javascript
-
-\*Aula longa
+# Curso Digital: Git
+## Salvando alterações no Git
+* Comando Git push
+* Comando Git pull
